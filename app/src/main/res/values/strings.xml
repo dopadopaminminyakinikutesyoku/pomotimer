@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pomo</string>
+    <string name="work_time_hint">作業時間 (mm:ss)</string>
+    <string name="break_time_hint">休憩時間 (mm:ss)</string>
+    <string name="start_button">スタート</string>
+    <string name="set_button">時間を設定</string>
+    <string name="time_up_title">タイムアップ！</string>
+    <string name="time_up_message">作業時間が終了しました</string>
+    <string name="break_time_up_message">休憩時間が終了しました</string>
+</resources>

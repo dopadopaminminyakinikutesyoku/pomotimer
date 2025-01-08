@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
         val initialMinutes = (startTime / 1000) / 60
         val initialSeconds = (startTime / 1000) % 60
         tv.text = String.format("%02d:%02d", initialMinutes, initialSeconds)
-
+//
         //2)ボタンの有効・無効
         btnStart.isEnabled = true
         btnStop.isEnabled = false

@@ -252,7 +252,7 @@ class MainActivity : AppCompatActivity() {
     private fun showTimeUpDialog2() {
         AlertDialog.Builder(this)
             .setTitle("タイマー終了")
-            .setMessage("1年後、後悔するぞ！")//aaa
+            .setMessage("1年後、後悔するぞ！")//waw
             .setPositiveButton("OK") { dialog, _ ->
 
                 dialog.dismiss()

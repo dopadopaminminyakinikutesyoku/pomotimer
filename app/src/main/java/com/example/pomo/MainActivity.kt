@@ -251,7 +251,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun showTimeUpDialog2() {
         AlertDialog.Builder(this)
-            .setTitle("タイマー終了")
+            .setTitle("作業終了！")
             .setMessage("1年後を想像して行動しよう！")//waw
             .setPositiveButton("OK") { dialog, _ ->
 
